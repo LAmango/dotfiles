@@ -11,7 +11,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'w0rp/ale'
 "Plug 'zchee/deoplete-jedi'
-Plug 'Valloric/YouCompleteMe', { 'do': './install.py --tern-completer' }
+Plug 'Valloric/YouCompleteMe', { 'do': './install.py --ts-completer' }
 Plug 'benmills/vimux'
 Plug 'airblade/vim-gitgutter'
 Plug 'vim-airline/vim-airline'
